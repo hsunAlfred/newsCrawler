@@ -11,9 +11,9 @@ Python
 ### 需要額外安裝的模組
 ```
 fake_useragent
-bs4
 requests
 pymysql
+bs4
 ```
 
 
@@ -23,7 +23,7 @@ pymysql
 
 
 ### 備註
-一、各財經新聞網對應的py檔\
+一、各財經新聞網對應的py檔
 ```
 1、鉅亨(台股-全部)：news_anue.py
 2、經濟(即時-最新-總覽)：news_econ.py
