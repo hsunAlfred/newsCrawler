@@ -22,11 +22,13 @@ requests
 
 
 ### 備註
-#### 一、各財經新聞網對應的py檔
-1、鉅亨(台股-全部)：news_anue.py\
-2、經濟(即時-最新-總覽)：news_econ.py\
-3、工商(即時-財經)：news_ctee.py\
+一、各財經新聞網對應的py檔\
+```
+1、鉅亨(台股-全部)：news_anue.py
+2、經濟(即時-最新-總覽)：news_econ.py
+3、工商(即時-財經)：news_ctee.py
 4、MoneyDJ(即時-頭條)：news_modj.py
-#### 二、執行過程中錯誤詳見log資料夾
-#### 三、UML類別圖(參考)
+```
+二、執行過程中錯誤詳見log資料夾\
+三、UML類別圖(參考)
 ![UML類別圖 drawio](https://user-images.githubusercontent.com/78075403/144748986-2f931232-7559-425b-9f56-6b954b76dabe.png)
