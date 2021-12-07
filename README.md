@@ -1,5 +1,5 @@
 # newsCrawler
-財經新聞網爬蟲並寫入mysql資料庫：鉅亨(台股-全部)、經濟(即時-最新-總覽)、工商(即時-財經)、MoneyDJ(即時-頭條)\
+財經新聞網爬蟲並寫入mysql資料庫：鉅亨(台股-全部)、經濟(即時-最新-總覽)、工商(即時-財經)、MoneyDJ(即時-頭條)
 
 ### 使用語言
 ```
@@ -31,5 +31,6 @@ bs4
 ```
 二、執行過程中錯誤詳見log資料夾\
 三、UML類別圖(參考)
-![UML類別圖 drawio](https://user-images.githubusercontent.com/78075403/144771859-079267d8-abf6-43ce-950e-b8ae8c115a95.png)
+![UML類別圖 drawio](https://user-images.githubusercontent.com/78075403/145035597-9bcb8a82-0470-4fb7-bded-8ef6101c9bd5.png)
+
 
