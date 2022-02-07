@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+news_crawler_frame.py
 .Python
 build/
 develop-eggs/
